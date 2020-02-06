@@ -7,7 +7,7 @@ from pycoin.encoding.sec import (
 from pycoin.satoshi.der import sigencode_der, sigdecode_der
 
 
-class InvalidPublicPairError(ValueError):
+class InvalidPublicPairError(ValueError):1DXjf5EEte2PkaXLmm5XeW83ufsj3K1z4K
     pass
 
 
